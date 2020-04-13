@@ -6,7 +6,7 @@ Manuscript: [10.1073/pnas.1907799117](https://doi.org/10.1073/pnas.1907799117)
 
 Deposited with Zenodo [![DOI](https://zenodo.org/badge/250227086.svg)](https://zenodo.org/badge/latestdoi/250227086)
 
-Raw data, collated by figure, for use with the combinatorics script is available as a supplemental file at PNAS.
+Raw data, collated by figure, for use with the combinatorics script is available as a [supplemental file](https://www.pnas.org/highwire/filestream/921821/field_highwire_adjunct_files/1/pnas.1907799117.sd01.xlsx) at PNAS.
 
 ## Contents 
 * Combinatorics statistics R script (.R)
