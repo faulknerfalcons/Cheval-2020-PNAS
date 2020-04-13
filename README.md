@@ -1,6 +1,8 @@
 # Chitin perception in plasmodesmata characterizes submembrane immune-signaling specificity in plants
 ## Cheval, Samwald, Johnston, et al., 2020, PNAS
 Code for Cheval, Samwald, Johnston, et al. (2020) PNAS
+Manuscript: [10.1073/pnas.1907799117](https://doi.org/10.1073/pnas.1907799117)
+Deposited with Zenodo [![DOI](https://zenodo.org/badge/250227086.svg)](https://zenodo.org/badge/latestdoi/250227086)
 
 Raw data, collated by figure, for use with the combinatorics script is available as a supplemental file at PNAS.
 
